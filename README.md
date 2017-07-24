@@ -1,2 +1,2 @@
 # hello-world
-First hello program repository
+First hello program repository in readme.md
